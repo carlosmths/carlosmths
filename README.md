@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Mathias Carcamo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Dept Agency](https://www.deptagency.com)
+- 🔭 I’m currently working for [Dept Agency](https://www.deptagency.com)
 
 - 👨‍💻 All of my projects are available at [https://www.carlosmths.com](https://www.carlosmths.com)
 
