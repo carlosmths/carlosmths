@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [Dept Agency](https://www.deptagency.com)
 
-- 👨‍💻 All of my projects are available at [https://www.carlosmths.com](https://www.carlosmths.com)
+- 👨‍💻 Check my portfolio at [https://www.carlosmths.com](https://www.carlosmths.com)
 
 - 💬 Ask me about **Frontend web development**
 
